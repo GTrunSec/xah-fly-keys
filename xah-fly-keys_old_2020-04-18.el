@@ -4067,6 +4067,6 @@ URL `http://ergoemacs.org/misc/ergoemacs_vi_mode.html'"
   (xah-fly-insert-mode-activate)
   (xah-fly-keys 0))
 
-(provide 'xah-fly-keys)
+(provide 'xah-fly-keys-old)
 
 ;;; xah-fly-keys.el ends here
